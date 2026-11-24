@@ -12,7 +12,7 @@ E-zu is a travel guide to Japan. We built it so that it works without collecting
 Photos are loaded from Wikimedia Commons (upload.wikimedia.org). When the app loads a photo, your device connects to Wikimedia's servers, which see your IP address as with any website. See the Wikimedia Foundation privacy policy. Each photo's author and license are shown in the app, in itineraries and on trip posters.
 
 ## Booking links and reviews
-"Tours & tickets", "Stay nearby", "Find near …" and "Find and book …" open partner websites in your browser: Klook, KKday, GetYourGuide and Viator for tours and tickets, and Booking.com and Agoda for places to stay. The link contains only the place or town name and, for stays, your trip dates. Those sites have their own privacy policies. If you book, we may receive a commission; the partner may know you came from E-zu. We receive no personal details about you.
+"Tours & tickets", "Stay nearby", "Find near …", "Find and book …", "Tickets" and the links in "Before you go" open partner websites in your browser: Klook, KKday, GetYourGuide and Viator for tours and tickets, Klook for train tickets and passes, Airalo and Klook for eSIMs, and Booking.com and Agoda for places to stay. The link contains only the place or town name and, for stays, your trip dates. Those sites have their own privacy policies. If you book, we may receive a commission; the partner may know you came from E-zu. We receive no personal details about you.
 
 Which partner sites are shown depends on the region setting of your iPhone (Settings → General → Language & Region). This is read on your device only and is never sent anywhere. You can change it in the app under About → Booking sites.
 
@@ -20,6 +20,12 @@ Which partner sites are shown depends on the region setting of your iPhone (Sett
 
 ## Flight details
 Flight numbers, times, terminals and booking codes you enter are saved only on your iPhone. "Check flight status" opens a web search with the flight number only.
+
+## Phrases, food card and checklist
+The foods you choose for your food card and the items you tick in "Before you go" are saved only on your iPhone. The foods you chose are also ticked on the itinerary PDF you create.
+
+## Tickets
+Tickets you add to a stop (screenshots, photos or PDFs) and booking codes are saved only on your iPhone. E-zu reads the ticket image on your iPhone to find its QR code and show it larger; nothing is sent anywhere. Photos you pick are chosen by you with the system photo picker, so E-zu doesn't get access to the rest of your photo library. Tickets are added to the itinerary PDF only if you turn on "Include tickets".
 
 ## Saving to Photos
 If you choose to save a trip poster or itinerary pages, the app asks to add those images to your Photos. It never reads your photo library.
