@@ -27,6 +27,12 @@ The foods you choose for your food card and the items you tick in "Before you go
 ## Tickets
 Tickets you add to a stop (screenshots, photos or PDFs) and booking codes are saved only on your iPhone. E-zu reads the ticket image on your iPhone to find its QR code and show it larger; nothing is sent anywhere. Photos you pick are chosen by you with the system photo picker, so E-zu doesn't get access to the rest of your photo library. Tickets are added to the itinerary PDF only if you turn on "Include tickets".
 
+## Your photos
+If you add your own photos to places in a trip, you pick them with the system photo picker, so E-zu only gets the photos you choose and not the rest of your library. They are saved only on your iPhone and used on your trip poster, maps and itinerary.
+
+## Reminders
+If you turn on "Remind me before I go" for a trip, E-zu asks for permission to send notifications and schedules up to three reminders on your iPhone (30 days, 7 days and the day before you leave). They are created on your device only; no server or account is involved, and you can turn them off at any time.
+
 ## Saving to Photos
 If you choose to save a trip poster or itinerary pages, the app asks to add those images to your Photos. It never reads your photo library.
 
